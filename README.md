@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0263-ugly-number) |
 | [2485-find-the-pivot-integer](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
