@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0112-path-sum) |
+## Math
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2485-find-the-pivot-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
