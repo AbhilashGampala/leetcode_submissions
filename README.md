@@ -21,9 +21,18 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0263-ugly-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2485-find-the-pivot-integer) |
+## Hash Table
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
