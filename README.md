@@ -30,9 +30,22 @@
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
+## Array
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
