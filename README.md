@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -79,6 +80,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
