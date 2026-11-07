@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0636-exclusive-time-of-functions](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0739-daily-temperatures) |
@@ -102,5 +103,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
