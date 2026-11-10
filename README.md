@@ -47,6 +47,7 @@
 | [0645-set-mismatch](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Ordered Set
 |  |
