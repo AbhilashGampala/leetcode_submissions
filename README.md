@@ -24,6 +24,7 @@
 | [0263-ugly-number](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0263-ugly-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2485-find-the-pivot-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
