@@ -54,6 +54,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
