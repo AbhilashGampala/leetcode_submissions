@@ -120,4 +120,8 @@
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## String
+|  |
+| ------- |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 <!---LeetCode Topics End-->
