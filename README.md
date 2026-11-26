@@ -23,6 +23,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0263-ugly-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2485-find-the-pivot-integer) |
 | [3360-stone-removal-game](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -30,6 +31,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2485-find-the-pivot-integer) |
 ## Hash Table
 |  |
@@ -50,6 +52,7 @@
 | [0645-set-mismatch](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1046-last-stone-weight) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -109,6 +112,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -140,4 +144,8 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
