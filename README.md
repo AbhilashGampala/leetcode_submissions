@@ -25,6 +25,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2485-find-the-pivot-integer) |
 | [3360-stone-removal-game](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3360-stone-removal-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Prefix Sum
 |  |
@@ -56,6 +57,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +128,16 @@
 |  |
 | ------- |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
