@@ -131,6 +131,7 @@
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sliding Window
 |  |
