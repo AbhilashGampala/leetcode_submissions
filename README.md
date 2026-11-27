@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0112-path-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0112-path-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | [0645-set-mismatch](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -60,6 +63,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
@@ -133,6 +137,7 @@
 | ------- |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AbhilashGampala/leetcode_submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
 | ------- |
